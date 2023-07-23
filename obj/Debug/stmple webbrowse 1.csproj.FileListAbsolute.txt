@@ -1,0 +1,11 @@
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\bin\Debug\stmple webbrowse 1.exe.config
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\bin\Debug\stmple webbrowse 1.exe
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\bin\Debug\stmple webbrowse 1.pdb
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.csproj.AssemblyReference.cache
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.csproj.SuggestedBindingRedirects.cache
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple_webbrowse_1.Form1.resources
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple_webbrowse_1.Properties.Resources.resources
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.csproj.GenerateResource.cache
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.csproj.CoreCompileInputs.cache
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.exe
+D:\vsc项目\ie游览器\ie简易浏览器bilibili\1\stmple webbrowse 1\obj\Debug\stmple webbrowse 1.pdb
